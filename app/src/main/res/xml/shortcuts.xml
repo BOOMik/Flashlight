@@ -1,0 +1,14 @@
+<shortcuts xmlns:android="http://schemas.android.com/apk/res/android">
+    <shortcut
+        android:shortcutId="dark"
+        android:enabled="true"
+        android:icon="@mipmap/ic_shortcut"
+        android:shortcutShortLabel="@string/dark_mode"
+        android:shortcutLongLabel="@string/with_the_screen_dimming">
+        <intent
+            android:action="ScreenOff"
+            android:targetPackage="ru.boomik.flashlight"
+            android:targetClass="ru.boomik.flashlight.StartFlashActivity" />
+        <categories android:name="android.shortcut.conversation" />
+    </shortcut>
+</shortcuts>

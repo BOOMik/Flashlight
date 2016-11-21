@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Фонарик</string>
+    <string name="normal">Нормальный</string>
+    <string name="select_mode">Выберите режим:</string>
+    <string name="with_the_screen_dimming">С затемнением экрана</string>
+    <string name="notify_click_for_disable">Нажмите для отключения</string>
+    <string name="notify_flash_enable">Фонарик включён</string>
+    <string name="white_icon">Белая иконка</string>
+    <string name="dark_mode">Тёмный режим</string>
+</resources>

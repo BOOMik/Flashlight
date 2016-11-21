@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Flashlight</string>
+    <string name="select_mode">Select mode:</string>
+    <string name="normal">Normal</string>
+    <string name="dark_mode">Dark mode</string>
+    <string name="with_the_screen_dimming">With the screen dimming</string>
+    <string name="notify_flash_enable">Flashlight active</string>
+    <string name="notify_click_for_disable">Click to deactivate</string>
+    <string name="white_icon">White icon</string>
+</resources>
